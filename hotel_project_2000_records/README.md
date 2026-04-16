@@ -1,7 +1,7 @@
-# Hotel Analytics Project (2000 Records)
+# Hotel Analytics Project
 
 ## Overview
-This is a Snowflake data engineering project using a 2000-record dataset.
+This is a Snowflake data engineering project using a Hotel Booking dataset.
 
 ## Layers
 - Bronze: Raw data load
